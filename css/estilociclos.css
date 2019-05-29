@@ -1,0 +1,103 @@
+body{margin:0;
+	padding:0;
+	background: url(../img/unad.jpg)no-repeat fixed center center ;
+	}
+
+body, #menuaprendizaje {
+        font-family: 'Franklin Gothic Heavy', arial;
+        font-size: 18px;
+        text-shadow: 4px 4px 4px #aaa;
+      }
+
+#descripcionimagenciclos {
+    font-family: 'Franklin Gothic Heavy', arial;
+    font-size: 18px;
+    text-shadow: 0px 0px 0px;
+}
+
+
+#primero{
+	border-radius: 5px;
+	background-color: #B3B3B3;
+	height:230px;
+	margin: 0 auto;
+	width: 1200px;
+	padding: 1em;
+	text-align: justify;
+
+}
+
+
+section{
+	text-orientation: center;
+	padding: 0,7em;
+}
+
+h2,h3{
+	padding: 1em;
+	height:28px;
+	margin: 0 auto;
+	width: 1200px;
+	color: white;
+	border-radius: 8px;
+}
+
+nav{
+	border-radius: 8px;
+	background-color: #F0B429;
+	height:150px;
+	margin-left: 70px;
+	width:280px;
+	
+	
+}
+
+#menuaprendizaje{
+	border-radius: 8px;
+	background-color: #F47920;
+	height:85px;
+	margin-left: 70px;
+	width:280px;
+		
+}
+
+#imagenciclos{
+	width: 50px; 
+	height: 50px;
+	border-radius: 5px;
+	float:right;
+	margin-left: 500px;
+	padding-left: 370px;
+	position: absolute;
+
+
+}
+
+img.pequeña{
+  width: 400px; height: 300px;
+}
+
+#descripcionimagenciclos{
+	border-radius: 10px;
+	text-align: justify;
+	width: 400px; 
+	height: 50px;
+	float:left;
+	margin-left: 860px;
+	margin-top: 290px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	background-color: #005883;
+	position: absolute;
+	color:#F47920;
+}
+h1, h4{
+	padding: 1em;
+	background-color: #005883;
+	height:70px;
+	margin: 0 auto;
+	width: 1200px;
+	color: white;
+	border-radius: 8px
+}

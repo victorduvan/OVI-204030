@@ -16,8 +16,24 @@
 @font-face {
 font-family:"vortice-concept";
 src:url("https://use.typekit.net/af/14f95d/000000000000000000017048/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/14f95d/000000000000000000017048/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/14f95d/000000000000000000017048/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-style:normal;font-weight:400;
+font-style:normal;font-weight:350;
+}
+
+@font-face {
+font-family: 'Franklin Gothic Book';
+font-style: normal;
+font-weight: normal;
+src: local('fonts/Franklin Gothic Book'), url('FRABK.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Franklin Gothic Book Italic';
+font-style: normal;
+font-weight: normal;
+src: local('fonts/Franklin Gothic Book Italic'), url('FRABKIT.woff') format('woff');
 }
 
 .tk-vortice-concept { font-family: "vortice-concept",sans-serif; }
 header { font-family: "vortice-concept",sans-serif; }
+section { font-family: "Franklin Gothic Book Itali",sans-serif; }
