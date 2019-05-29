@@ -1,0 +1,72 @@
+body{margin:0;
+	padding:0;
+	background: url(../img/unad.jpg)no-repeat fixed center center ;
+	}
+
+body, #menuaprendizaje {
+        font-family: 'Franklin Gothic Heavy', arial;
+        font-size: 18px;
+        text-shadow: 4px 4px 4px #aaa;
+      }
+
+
+
+#primero{
+	border-radius: 5px;
+	background-color: #B3B3B3;
+	height:70px;
+	margin: 0 auto;
+	width:1170px;
+	padding: 1em;
+	text-align: justify;
+
+}
+
+#segundo{
+	border-radius: 5px;
+	background-color: #B3B3B3;
+	height:150px;
+	margin: 0 auto;
+	width:1170px;
+	padding: 1em;
+	text-align: justify;
+
+}
+
+section{
+	text-orientation: center;
+	padding: 0,7em;
+}
+
+
+nav{
+	border-radius: 8px;
+	background-color: #F0B429;
+	height:150px;
+	margin-left: 70px;
+	width:280px;
+	padding-top: 1px;
+	
+	
+}
+
+
+h1{
+	padding: 1em;
+	background-color: #005883;
+	height:70px;
+	margin: 0 auto;
+	width: 1200px;
+	color: white;
+	border-radius: 8px
+}
+
+h2, h3{
+	padding: 1em;
+	background-color: #005883;
+	height:40px;
+	margin: 0 auto;
+	width: 1150px;
+	color: white;
+	border-radius: 8px
+}
