@@ -31,6 +31,17 @@ body {
 	
 }
 
+#widgets{
+	border: 80px; 
+	width: 450px;
+	padding: 500px;
+	margin-top: 500px;
+	margin-left: -60px;
+	text-align: justify;
+	position: absolute;
+	
+}
+
 section{
 	text-orientation: center;
 	padding: 0,7em;
