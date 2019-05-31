@@ -22,6 +22,14 @@ body, #menuaprendizaje {
 
 }
 
+#menuaprendizaje{
+	border-radius: 8px;
+	background-color: #F47920;
+	height:85px;
+	margin-left: 70px;
+	width:280px;
+		
+}
 
 section{
 	text-orientation: center;
