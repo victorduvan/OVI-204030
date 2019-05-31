@@ -42,6 +42,15 @@ body {
 	
 }
 
+#contador{
+	border-radius: 8px;
+	height:30px;
+	margin-left: 70px;
+	width:305px;
+	text-align: center;
+	
+}
+
 section{
 	text-orientation: center;
 	padding: 0,7em;
